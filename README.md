@@ -1,2 +1,9 @@
-# My_Projects
-A collection of my programming projects and practical applications, covering HTML, CSS, JavaScript, Python, Data Science, and more. Each project is organized into its own folder, showcasing my learning journey and hands-on development experience.
+# My Projects
+
+A collection of my programming projects and practical work created
+throughout my learning journey.
+
+This repository includes projects built using different technologies
+and programming concepts.
+
+More projects will be added as I continue learning and improving.
