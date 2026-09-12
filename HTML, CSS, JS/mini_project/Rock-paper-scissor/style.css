@@ -1,0 +1,128 @@
+*{
+    margin:0;
+    padding:0;
+}
+.containor{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+}
+.circle{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-bottom:50px;
+}
+body{
+    background-color: #edf2f4;
+}
+h1{
+    background-color: #2b2d42;
+    color:#ffffff;
+    height:40px;
+    width:100vmax;
+    display: flex;
+    justify-content:center;
+    font-family:'Courier New', Courier, monospace;
+
+}
+.score{
+    /* border:2px solid rgb(4, 249, 0); */
+    width:fit-content;
+    height:fit-content;
+    font-size: x-large;
+    margin-top: 30px;
+    display: flex;
+    justify-content:center; 
+    flex-direction: column;
+    align-items: center;
+    background-color: #2b2d42;
+    color:#ffffff;
+    border-radius: 10px;
+    font-family: 'courier New' , monospace;
+
+
+    #score-p{
+        padding-top: 6px;
+    }
+    #drawscore{
+        padding-bottom: 6px;
+    }
+}
+
+
+.msg-box{
+    background-color: #2b2d42;
+    color:#ffffff;
+    font-size:larger;
+    margin-top: 40px;
+    height: 30px;
+    width: fit-content;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border-radius:10px;
+    font-family: 'courier New' , monospace;
+    padding: 8px 15px 8px 15px;
+
+
+}
+button{
+    height:100px;
+    width: 100px;
+    border-radius:50%;
+    margin-top: 30px;
+    font-size :50px;
+    border: 2px solid #edf2f4;
+
+}
+button:hover{
+    /* border-color: #000000; */
+    border: 3px solid black;
+
+    /* box-shadow: 3px 2px 10px #000000; */
+
+}
+#rock{
+    background-image:url(rock2.png.jpg);
+    background-position:center;
+    background-size: 140px;
+}
+#paper{
+    background-image:url(paper2.png.jpg);
+    background-position:center;
+    background-size: 125px;
+}
+#scissor{
+    background-image:url(scissor2.png.jpg);
+    background-position:center;
+    background-size: 130px;
+}
+#comppara{
+    background-color: #2b2d42;
+    color:#ffffff;
+    font-size:larger;
+    height:fit-content;
+    padding: 8px 12px 8px 12px;
+    width: fit-content;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border-radius:10px;
+    font-family: 'courier New' , monospace;
+    
+
+}
+.computerchoice{
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(all.png.jpg);
+    background-position: center;
+    background-size: contain;
+    overflow: hidden;
+    border: 2px solid black;
+    margin-top:10px;
+
+}

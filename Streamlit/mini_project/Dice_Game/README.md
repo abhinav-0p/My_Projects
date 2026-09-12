@@ -54,6 +54,13 @@ This project helped me practice:
 * Session State
 * Basic Game Logic
 
+### Game Interface
+
+![First](Screenshot_1.png)
+![Second](Screenshot_2.png)
+![Third](Screenshot_3.png)
+![Forth](Screenshot_4.png)
+
 
 ## 👨‍💻 About the Project
 
