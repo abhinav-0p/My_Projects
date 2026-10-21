@@ -46,9 +46,7 @@ The main objective of this project was to practice creating an interactive Power
 
 
 ![Dashboard Page 1](Screenshots/Global_superstar_mark_1_p2.png)
-
 ![Dashboard Page 2](Screenshots\Global_superstar_mark_1_p2.png)
-
 ![Dashboard Page 3](Screenshots\Global_superstar_mark_1_p3.png)
 
 
