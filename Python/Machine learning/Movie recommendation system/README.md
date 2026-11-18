@@ -2,10 +2,14 @@
 
 CineMatch recommends movies similar to one you type in. It compares movie descriptions, genres, keywords, cast and directors using **TF-IDF** and a **linear kernel** (dot product) similarity, and shows the results as a poster grid in a **Streamlit** web app.
 
-🔗 **Live demo:** _add your Streamlit Cloud link here_
 
-![CineMatch screenshot](screenshot.png)
-_(add a screenshot of the app and save it as `screenshot.png`)_
+![CineMatch screenshot](screenshot\Screenshot%201.png)
+![CineMatch screenshot](screenshot\Screenshot%202.png)
+![CineMatch screenshot](screenshot\Screenshot%203.png)
+![CineMatch screenshot](screenshot\Screenshot%204.png)
+![CineMatch screenshot](screenshot\Screenshot%205.png)
+
+
 
 ---
 
